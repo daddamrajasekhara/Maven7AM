@@ -33,7 +33,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.159.155:8081/repository/nexux-release</url>
+            <url>http://192.168.159.155:8081/repository/nexus-release</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
