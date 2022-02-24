@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.159.149:8081/repository/madhu</url>
+            <url>http://192.168.159.155:8081/repository/nexux-release</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.159.149:8081/repository/madhu-Snap/</url>
+            <url>http://192.168.159.155:8081/repository/nexus-Snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
