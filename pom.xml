@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.159.165:8081/repository/raja1-release</url>
+            <url>http://192.168.159.165:8081/repository/raja1</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.159.165:8081/repository/raja2-Snap/</url>
+            <url>http://192.168.159.165:8081/repository/raja2/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
