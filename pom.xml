@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.159.166:8081/repository/punith-release</url>
+            <url>http://192.168.159.179:8081/repository/dhana-release</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.159.166:8081/repository/punith-snapshot/</url>
+            <url>http://192.168.159.179:8081/repository/dhana-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
