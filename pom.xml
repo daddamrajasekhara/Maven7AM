@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.159.178:8081/repository/ravindra</url>
+            <url>http://192.168.159.166:8081/repository/jenkins10</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.159.178:8081/repository/ravindra2/</url>
+            <url>http://http://192.168.159.166:8081/repository/jenkins10-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
