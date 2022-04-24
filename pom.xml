@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.159.235:8081/repository/test-15</url>
+            <url>http://192.168.159.235:8081/repository/parushu</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://http://192.168.159.235:8081/repository/test-15-snap/</url>
+            <url>http://http://192.168.159.235:8081/repository/parushu-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
