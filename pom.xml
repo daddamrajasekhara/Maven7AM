@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://ec2-3-144-183-95.us-east-2.compute.amazonaws.com:8081/repository/rawireddy</url>
+            <url>http://3.14.147.109:8081/repository/rawireddy</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://http://ec2-3-144-183-95.us-east-2.compute.amazonaws.com:8081/repository/rawireddy-snap/</url>
+            <url>http://3.14.147.109:8081/repository/rawireddy-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
