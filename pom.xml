@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.jdevs</groupId>
-  <artifactId>GRR</artifactId>
+  <artifactId>RAJA GADDAM CHANNEL</artifactId>
   <version>1.0</version>
   <packaging>war</packaging>
   <build>
@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://3.144.183.95:8081/repository/gaddam</url>
+            <url>http://192.168.159.235:8081/repository/jalaganna-release</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://3.144.183.95:8081/repository/gaddam-snap/</url>
+            <url>http://192.168.159.235:8081/repository/jalaganna-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
